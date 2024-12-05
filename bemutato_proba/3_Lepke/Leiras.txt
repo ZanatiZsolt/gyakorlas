@@ -1,0 +1,15 @@
+K�z�pszint� �retts�gi feladatsor
+2006 m�jus�ban
+
+1. Sz�vegszerkeszt�s
+2. prezent�ci�k�sz�t�s
+3. weblapszerkeszt�s
+4. t�bl�zatkezel�s
+5. adatb�zis-kezel�s
+
+Az emelt szintű érettségi
+1. Dokumentumkészítés
+2. Táblázatkezelés
+3. Adatbázis-kezelés
+4. Programozás
+5. Szóbeli vizsgarész a vizsgabizottság előtt
